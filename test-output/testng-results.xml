@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-17T09:46:21 CDT" name="Default suite" finished-at="2024-04-17T09:46:27 CDT" duration-ms="6713">
+    <groups>
+    </groups>
+    <test started-at="2024-04-17T09:46:21 CDT" name="Default test" finished-at="2024-04-17T09:46:27 CDT" duration-ms="6713">
+      <class name="testCases.CreateAccount">
+        <test-method signature="createAccount()[pri:1, instance:testCases.CreateAccount@5b1669c0]" started-at="2024-04-17T09:46:21 CDT" name="createAccount" finished-at="2024-04-17T09:46:24 CDT" duration-ms="3533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method signature="getAllAccounts()[pri:2, instance:testCases.CreateAccount@5b1669c0]" started-at="2024-04-17T09:46:24 CDT" name="getAllAccounts" finished-at="2024-04-17T09:46:26 CDT" duration-ms="2138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllAccounts -->
+        <test-method signature="getAccountDetails()[pri:3, instance:testCases.CreateAccount@5b1669c0]" started-at="2024-04-17T09:46:26 CDT" name="getAccountDetails" finished-at="2024-04-17T09:46:27 CDT" duration-ms="1010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAccountDetails -->
+      </class> <!-- testCases.CreateAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
